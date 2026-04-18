@@ -1,0 +1,7 @@
+{
+  "name": "Paws & Paths Virginia Beach",
+  "description": "Professional dog walking and pet waste removal services in Virginia Beach. SEO-optimized, reliable, and friendly local pet care.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
